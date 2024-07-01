@@ -1,0 +1,58 @@
+Birinci sayfa:
+t0.txt -> şarj süresi
+t1.txt -> voltaj
+t2.txt -> akım
+t3.txt -> hız
+z0.val -> hız
+z1.val -> fuel
+z2.val -> sıcaklık
+t34.txt -> birinci paket 1
+t35.txt -> birinci paket 2
+t36.txt -> birinci paket 3
+t37.txt -> birinci paket 4
+t38.txt -> birinci paket 5
+t39.txt -> birinci paket 6
+t40.txt -> birinci paket 7
+t41.txt -> birinci paket 8
+t42.txt -> birinci paket 9
+t43.txt -> birinci paket 10
+t44.txt -> ikinci paket 1
+t45.txt -> ikinci paket 2
+t46.txt -> ikinci paket 3
+t47.txt -> ikinci paket 4
+t48.txt -> ikinci paket 5
+t49.txt -> ikinci paket 6
+t50.txt -> ikinci paket 7
+t51.txt -> ikinci paket 8
+t52.txt -> ikinci paket 9
+t53.txt -> ikinci paket 10
+t54.txt -> en yüksek sıcaklık
+t55.txt -> en düşük sıcaklık
+t56.txt -> en yüksek volt
+t57.txt -> en düşük volt
+
+İkinci sayfa:
+t4.txt -> birinci paket 1
+t5.txt -> birinci paket 2
+t6.txt -> birinci paket 3
+t7.txt -> birinci paket 4
+t8.txt -> birinci paket 5
+t9.txt -> birinci paket 6
+t10.txt -> birinci paket 7
+t11.txt -> birinci paket 8
+t12.txt -> birinci paket 9
+t13.txt -> birinci paket 10
+t14.txt -> ikinci paket 1
+t15.txt -> ikinci paket 2
+t16.txt -> ikinci paket 3
+t17.txt -> ikinci paket 4
+t18.txt -> ikinci paket 5
+t19.txt -> ikinci paket 6
+t20.txt -> ikinci paket 7
+t21.txt -> ikinci paket 8
+t22.txt -> ikinci paket 9
+t23.txt -> ikinci paket 10
+t24.txt -> en yüksek sıcaklık
+t25.txt -> en düşük sıcaklık
+t26.txt -> en yüksek volt
+t27.txt -> en düşük volt
